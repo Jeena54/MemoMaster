@@ -39,7 +39,7 @@ MasterMemo is built using the following technologies and modules:
 
 ## Getting Started
 
-Ready to boost your productivity with MasterMemo? Visit our [Live Website](https://mastermemo-website.example.com) to start creating and organizing your notes.
+Ready to boost your productivity with MasterMemo? Visit our [Live Website](https://memomaster.onrender.com/). to start creating and organizing your notes.
 
 ## License
 
