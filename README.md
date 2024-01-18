@@ -43,7 +43,7 @@ Ready to boost your productivity with MasterMemo? Visit our [Live Website](https
 
 ## License
 
-This project is licensed under the Natsasion License. For detailed information, please refer to the [LICENSE](LICENSE.md) file.
+This project is licensed under the License. For detailed information, please refer to the [LICENSE](LICENSE.md) file.
 
 Learned from [Raddy](https://www.youtube.com/watch?v=BDo1lgaZuII).
 
